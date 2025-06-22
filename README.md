@@ -4,9 +4,6 @@
 
 This repository explores a synthetic Swiggy‑style food‑delivery dataset and produces professional data‑driven insights & charts.  A single Python script (`swiggy_visuals.py`) loads six CSV files, cleans them, engineers features, and generates publication‑ready plots of daily demand, restaurant revenue, payment‑method mix, and more.
 
-<p align="center">
-  <img src="docs/preview_daily_orders.png" width="650" alt="Daily Order Trend">
-</p>
 
 ##  Dataset
 
